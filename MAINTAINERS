@@ -2841,6 +2841,15 @@ T:	git git://linuxtv.org/anttip/media_tree.git
 S:	Maintained
 F:	drivers/media/dvb-frontends/cxd2820r*
 
+CXD2841ER MEDIA DRIVER
+M:	Sergey Kozlov <serjk@netup.ru>
+L:	linux-media@vger.kernel.org
+W:	http://linuxtv.org/
+W:	http://netup.tv/
+T:	git git://linuxtv.org/media_tree.git
+S:	Supported
+F:	drivers/media/dvb-frontends/cxd2841er*
+
 CXGB3 ETHERNET DRIVER (CXGB3)
 M:	Santosh Raspatur <santosh@chelsio.com>
 L:	netdev@vger.kernel.org
